@@ -1,0 +1,1 @@
+<p>Some content in that home page</p>
